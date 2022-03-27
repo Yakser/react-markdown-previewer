@@ -45,7 +45,7 @@ And here. | Okay. | I think we get it.
 1. Use just 1s if you want!
 1. And last but not least, let's not forget embedded images:
 
-![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)
+![React Logo](https://camo.githubusercontent.com/7d8819bb9d6033fc7d311189d26030780ddd7b7e67df350d55065ad72cf32445/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3230323032303f7374796c653d666c61742d737175617265266c6f676f3d7265616374)
 `;
   
   const [editorValue, setEditorValue] = React.useState(PLACEHOLDER);
